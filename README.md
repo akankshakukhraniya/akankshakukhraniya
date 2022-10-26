@@ -6,7 +6,7 @@ Out of all of these tools, I love working with Tableau, Python and SQL.
 
 - 👋 Hi, I’m @akankshakukhraniya
 - 👀 I’m interested in ... 
-- 🌱 Looking opportunities in Data Analytics
+- 🌱 Looking opportunities in Data Analytics, Tableau reporting or BA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Connect me : akanksha.kukhraniya@gmail.com
                  : https://www.linkedin.com/in/akanksha-kukhraniya/
